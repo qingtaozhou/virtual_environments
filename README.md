@@ -17,3 +17,7 @@ pip install -r requirements.txt
 pip list
 deactivate
 ```
+
+
+* https://www.youtube.com/watch?v=Ga1qgdYm1l8&list=LL&index=2
+  
